@@ -12,5 +12,5 @@
   },
   "cacheDirectories": [
     "src/node_modules"
-  ],
+  ]
 }
