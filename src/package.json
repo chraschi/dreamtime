@@ -7,7 +7,7 @@
   "version": "1.4.4",
   "main": "electron/dist/index.js",
   "license": "GPL-3.0-only",
-  "private": false,
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dreamnettech/dreamtime.git"
