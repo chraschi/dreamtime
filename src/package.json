@@ -10,7 +10,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dreamnettech/dreamtime.git"
+    "url": "https://github.com/dreamnettech/dreamtime.git"
   },
   "bugs": {
     "url": "https://github.com/dreamnettech/dreamtime/issues"
