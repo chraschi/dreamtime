@@ -9,7 +9,7 @@
     "postinstall": "yarn install"
   },
   "dependencies":{
-    "yarn": ">= 1.22.*"
+    "yarn": "^1.22.0"
   },
   "cacheDirectories": [
     "src/node_modules"
