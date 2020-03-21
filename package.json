@@ -2,10 +2,16 @@
 {
   "name": "chraschi-dreamtime",
   "version": "0.1.0",
+  "engines": {
+    "node": ">=10.0.0"
+  },
   "scripts": {
-    "postinstall": "npm install --prefix src"
+    "postinstall": "yarn install"
+  },
+  "dependencies":{
+    "yarn": ">= 1.22.*"
   },
   "cacheDirectories": [
     "src/node_modules"
-  ]
+  ],
 }
