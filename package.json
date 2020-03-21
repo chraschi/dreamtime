@@ -4,5 +4,8 @@
   "version": "0.1.0",
   "scripts": {
     "postinstall": "npm install --prefix src"
-  }
+  },
+  "cacheDirectories": [
+    "src/node_modules"
+  ],
 }
